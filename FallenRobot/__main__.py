@@ -205,7 +205,7 @@ def start(update: Update, context: CallbackContext):
         else:
             first_name = update.effective_user.first_name
             update.effective_message.reply_sticker(
-                "CAACAgUAAxkBAAJYsmLWRvm70cE-mmxSNCovEf4v1ueJAAIcCAACbMK4VuL4EmZEkq8WKQQ"
+                "CAACAgUAAxkBAANsZDkOxL0C_SYFyRKxvEB0WBEKbhsAAtsIAAIH1slVBMmDOeaL1aEvBA"
             )
             update.effective_message.reply_text(
                 PM_START_TEXT.format(escape_markdown(first_name), BOT_NAME),
@@ -444,15 +444,15 @@ def Source_about_callback(update: Update, context: CallbackContext):
 
 ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ : [ᴛᴇʟᴇᴛʜᴏɴ](https://telegram.me/nillcoderbot)
 [ᴩʏʀᴏɢʀᴀᴍ](https://instagram.com/nillcoderbot)
-[𝐃𝐄𝐕𝐋𝐎𝐏𝐄𝐑](https://telegram.me/nillcoder)
-ᴀɴᴅ ᴜsɪɴɢ [𝐆𝐑𝐎𝐔𝐏](https://telegram.me/creepy_world_hell) ᴀɴᴅ [𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌](https://instagram.com/nillcoderbot) ᴀs ᴅᴀᴛᴀʙᴀsᴇ.
+[𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁](https://telegram.me/nillcoder)
+ᴀɴᴅ ᴜsɪɴɢ [𝙶𝚁𝙾𝚄𝙿](https://telegram.me/creepy_world_hell) ᴀɴᴅ [𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼](https://instagram.com/nillcoderbot) ᴀs ᴅᴀᴛᴀʙᴀsᴇ.
 
 
-*ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :* [𝐎𝐖𝐍𝐄𝐑](https://telegram.me/nillcoderbot)
+*ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :* [𝙾𝚆𝙽𝙴𝚁](https://telegram.me/nillcoderbot)
 
 
-{BOT_NAME} ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [𝐌𝐈𝐓 𝐋𝐈𝐍𝐂𝐄𝐍𝐒𝐄](https://telegram.me/nillcoderbot).
-© 2022 - 2023 | [𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐂𝐇𝐀𝐓](https://t.me/{SUPPORT_CHAT}), ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
+{BOT_NAME} ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [𝙼𝙸𝚃 𝙻𝙸𝙲𝙴𝙽𝙲𝙴](https://telegram.me/nillcoderbot).
+© 2022 - 2023 | [𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙲𝙷𝙰𝚃](https://t.me/{SUPPORT_CHAT}), ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
