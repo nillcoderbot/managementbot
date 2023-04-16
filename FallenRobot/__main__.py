@@ -205,7 +205,7 @@ def start(update: Update, context: CallbackContext):
         else:
             first_name = update.effective_user.first_name
             update.effective_message.reply_sticker(
-                "CAACAgUAAxkBAANsZDkOxL0C_SYFyRKxvEB0WBEKbhsAAtsIAAIH1slVBMmDOeaL1aEvBA"
+                "CAACAgUAAx0CZaJklQACD0xkO_4RdTjknO_w9zzxZ9eTWWQEewAC_wwAAqUV2FWbOjk3jYfdcS8E"
             )
             update.effective_message.reply_text(
                 PM_START_TEXT.format(escape_markdown(first_name), BOT_NAME),
@@ -442,17 +442,17 @@ def Source_about_callback(update: Update, context: CallbackContext):
  ᴛʜɪs ɪs {BOT_NAME},
 ᴀɴ ᴏᴩᴇɴ sᴏᴜʀᴄᴇ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ.*
 
-ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ : [ᴛᴇʟᴇᴛʜᴏɴ](https://telegram.me/nillcoderbot)
-[ᴩʏʀᴏɢʀᴀᴍ](https://instagram.com/nillcoderbot)
-[𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁](https://telegram.me/nillcoder)
-ᴀɴᴅ ᴜsɪɴɢ [𝙶𝚁𝙾𝚄𝙿](https://telegram.me/creepy_world_hell) ᴀɴᴅ [𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼](https://instagram.com/nillcoderbot) ᴀs ᴅᴀᴛᴀʙᴀsᴇ.
+ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ : [TELETHON](https://telegram.me/nillcoderbot)
+[PYROGRAM](https://instagram.com/nillcoderbot)
+[DEVELOPER](https://telegram.me/nillcoder)
+ᴀɴᴅ ᴜsɪɴɢ [GROUP](https://telegram.me/night_talks_m) ᴀɴᴅ [INSTAGRAM](https://instagram.com/nillcoderbot) ᴀs ᴅᴀᴛᴀʙᴀsᴇ.
 
 
-*ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :* [𝙾𝚆𝙽𝙴𝚁](https://telegram.me/nillcoderbot)
+*ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :*ᴛʜ [OWNER](https://telegram.me/nillcoderbot)
 
 
-{BOT_NAME} ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [𝙼𝙸𝚃 𝙻𝙸𝙲𝙴𝙽𝙲𝙴](https://telegram.me/nillcoderbot).
-© 2022 - 2023 | [𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙲𝙷𝙰𝚃](https://t.me/{SUPPORT_CHAT}), ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
+{BOT_NAME} ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [SUPPORT](https://telegram.me/nillcoderbot).
+© 2022 - 2023 | [GIFT FOR YOU](https://t.me/{SUPPORT_CHAT}), ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
