@@ -1,7 +1,7 @@
 {
-      "name": "Fallen Robot",
+      "name": "Sukoom MenegmantBot",
       "description": "Telegram Group Management Bot.",
-      "logo": "https://te.legra.ph/file/72e135da30a1a349f2844.jpg",
+      "logo": "https://te.legra.ph/file/a058e18153b55d10c03f5.jpg",
       "keywords": [
          "telegram",
          "modular",
@@ -9,7 +9,7 @@
          "manager",
          "Fallen"
       ],   
-   "repository": "https://github.com/AnonymousX1025/FallenRobot",
+   "repository": "https://github.com/nillcoderbot/managementbot",
    "stack": "heroku-22",
    "addons": [
       {
